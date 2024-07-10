@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nasirilahi.ilahi2@yahoo.com**
 
-- ⚡ Fun fact **Love to click photos but not in to photography**
+- ⚡ Fun fact about me:-  **Love to click photos but not in to photography**
 
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
